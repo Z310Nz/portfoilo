@@ -40,6 +40,7 @@ const work = [
   { name: "MonopolyHistoryGame", url: "https://monopoly-history.vercel.app/" },
   { name: "SEinternship", url: "https://seinternship.cstserver.org/" },
   { name: "SEinternship Repository", url: "https://bit.ly/seinternweb" },
+  { name: "L-SHIFT", url: "https://z310nz.github.io/L-SHIFT/" },
 ];
 </script>
 
