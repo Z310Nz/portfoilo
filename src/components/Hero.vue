@@ -16,13 +16,13 @@ const profile = {
     <div class="container mx-auto px-4 py-16">
       <div class="flex flex-col md:flex-row items-center justify-between gap-8">
         <div class="md:w-1/2 text-center md:text-left">
-          <h1 class="text-10xl md:text-6xl font-bold text-gray-900 mb-4">
+          <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-4">
             {{ profile.name }}
           </h1>
-          <h2 class="text-8xl md:text-3xl text-blue-600 mb-6">
+          <h2 class="text-2xl md:text-3xl text-blue-600 mb-6">
             {{ profile.title }}
           </h2>
-          <p class="text-4xl md:text-xl text-gray-600 mb-8">
+          <p class="text-xl text-gray-600 mb-8">
             {{ profile.description }}
           </p>
           <a
@@ -36,7 +36,7 @@ const profile = {
           <img
             :src="profile.image"
             :alt="profile.name"
-            class="rounded-full w-65 h-65 object-cover shadow-lg"
+            class="rounded-full w-96 h-96 object-cover shadow-lg"
           />
         </div>
       </div>
