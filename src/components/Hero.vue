@@ -4,7 +4,7 @@ const profile = {
   title: "Full-Stack Developer",
   description:
     "I'm a full-stack developer focused on creating user-friendly programs and websites, committed to ongoing self-improvement and industry knowledge. I bring real-world experience and aim to drive your organization's rapid growth.",
-  image: "../../public/profile/profile01-edit.png",
+  image: "/profile/profile01-edit.png",
 };
 </script>
 
