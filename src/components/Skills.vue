@@ -37,7 +37,7 @@ const skills = {
     "Teleport",
   ],
   languages: [
-    "Writing : Good",
+    "Writing : Well",
     "listening : Good",
     "Speaking : Well",
     "Reading : Good",
