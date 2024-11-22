@@ -21,7 +21,6 @@ const skills = {
     "Adaptability",
     "Quick to learn",
     "Detail-oriented",
-    "Problem solving",
     "Critical thinking",
     "Flexibility",
     "Teamwork",
